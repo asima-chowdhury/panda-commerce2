@@ -1,0 +1,73 @@
+/* ----------------- common-code-------------------------------- */
+.container{
+    margin-bottom: 100px;
+}
+/* --------------------- Carousel-area start -------------------- */
+.pink-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF136F;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom ,#ff589b 0%, #ff136f 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+/* --------------------- Carousel-area end -------------------- */
+/* --------------------- Categories-area start -------------------- */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: linear-gradient(to left,yellow, orange);
+}
+.cat2{
+    background-image: linear-gradient(to left ,#ff589b,#ff136f 100%);
+    color: #fff;
+
+}
+.cat3{
+    background-image: linear-gradient(to left,  blue,royalblue);
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+/* --------------------- Categories-area end -------------------- */
+/* --------------------- Shoes-categories-area start -------------------- */
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+/* --------------------- Shoes-categories-area end ---------------------- */
+/* --------------------- Backpack-categories-area start -------------------- */
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+/* --------------------- Backpack-categories-area end ---------------------- */
+/* ------------------------- Subscribe-area start -------------------  */
+#subscribe{
+    height: 300px;    
+}
+#subscribe h6{
+    color: gray;
+}
+/* ------------------------- Subscribe-area end -------------------  */
+/* ------------------------- Footer-area start -------------------  */
+footer{
+    text-align: center;
+}
+/* ------------------------- Footer-area end ---------------------  */
